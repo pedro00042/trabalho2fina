@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#logo{
+    height: 50px;
+    width: 50px;
+}
+header{
+    background-color: yellow;
+}
+.sec1 {
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+#gucciv {
+    width: 100%;
+    height: 100%;
+}
+.sec2{
+    border:30px;
+    padding-top: 50px;
+}
+h1{
+text-align: center;
+text-decoration: underline;
+}
+.oi, oie, oiei{
+    display: inline-block;
+    float: left;
+}
+.oiei{
+    color: #EBB803;
+    text-decoration: underline;
+}
+.flex {
+    width: 100%;
+    height: 600px;
+    text-align: center;
+}
+.oi1, oie1, oiei1{
+    display: inline-block;
+    float: right;
+}
+.oiei1{
+    color: #EBB803;
+    text-decoration: underline;
+}
+.separation{
+    width: 100%;
+    height: 70px;
+}
+.a{
+ color: inherit;
+}
+.button{
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    border-radius: 10px;
+}
+.separ{
+    height: 100px;
+}
+
+.conteudo {
+    height: 500px;  
+    width: 100%px;            
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
